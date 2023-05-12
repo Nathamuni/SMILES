@@ -4,6 +4,7 @@ class smile
 {
     public static void main(String[] args) 
     {
+        //thiru na massu
         
         Scanner get = new Scanner(System.in);
 
